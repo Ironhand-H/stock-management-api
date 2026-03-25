@@ -58,7 +58,7 @@ Planned improvements:
 
 ---
 
-## 🧠 What I learned
+## 🧠 What I learned for now
 
 - Building REST APIs with Spring Boot
 - Structuring a backend application (layered architecture)
